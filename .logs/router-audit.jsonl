@@ -12,3 +12,6 @@
 {"ts":"2026-03-09T09:23:59Z","user_goal":"将 Skill 文案统一为 Skills，并将中文标题改为 Skills 评测","candidate_skills":["test-driven-development","verification-before-completion"],"selected_skills":["test-driven-development","verification-before-completion"],"reason":"文案变更需先加失败断言再修改并验证"}
 {"ts":"2026-03-09T09:38:59Z","user_goal":"优化评测配置操作区结构与按钮尺寸","candidate_skills":["brainstorming","ui-ux-pro-max","test-driven-development"],"selected_skills":["brainstorming","ui-ux-pro-max","test-driven-development"],"reason":"前端UI结构与交互优化，先方案后实现并回归"}
 {"selected_skills":["brainstorming","ui-ux-pro-max","test-driven-development"],"reason":"UI/UX结构改造+功能实现，按路由保守策略执行","candidate_skills":["brainstorming","ui-ux-pro-max","test-driven-development"],"user_goal":"优化Eval页内容结构，并把框中按钮改小","ts":"2026-03-09T09:41:52Z"}
+{"selected_skills":["brainstorming","ui-ux-pro-max","test-driven-development"],"reason":"UI标识增强与前端行为变更","candidate_skills":["brainstorming","ui-ux-pro-max","test-driven-development"],"user_goal":"给评测板块在侧边栏和主页标题增加BETA标识","ts":"2026-03-10T04:23:02Z"}
+{"selected_skills":["verification-before-completion"],"reason":"提交前状态确认与验证证据检查","candidate_skills":["verification-before-completion"],"user_goal":"确认当前工作树是否可以提交","ts":"2026-03-10T05:18:15Z"}
+{"selected_skills":[],"reason":"简单路径查询，无需额外技能","candidate_skills":[],"user_goal":"询问当前工作树路径","ts":"2026-03-10T05:21:00Z"}

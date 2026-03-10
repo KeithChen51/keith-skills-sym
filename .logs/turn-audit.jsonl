@@ -1,0 +1,6 @@
+﻿{"ts":"2026-03-08T14:55:59Z","user_goal":"解释 GitHub Pull Requests 列表中的高亮项是什么","candidate_skills":["using-superpowers"],"selected_skills":["using-superpowers"],"reason":"新会话起始，router 规则要求加载通用技能；截图解释不匹配其他专项技能"}
+{"ts":"2026-03-08T14:57:21Z","user_goal":"查看 GitHub PR 的主要内容","candidate_skills":[],"selected_skills":[],"reason":"无明显匹配的专项技能，直接检查 PR 差异与提交内容"}
+{"ts":"2026-03-08T15:00:17Z","user_goal":"先逐文件解释 PR，再做代码审查","candidate_skills":["requesting-code-review"],"selected_skills":["requesting-code-review"],"reason":"用户明确要求 review，适合按评审技能组织检查"}
+{"ts":"2026-03-08T15:13:03Z","user_goal":"拉取 PR 分支到新的 codex 分支并与主分支合并后做本地测试","candidate_skills":["verification-before-completion","using-git-worktrees"],"selected_skills":["verification-before-completion","using-git-worktrees"],"reason":"需要隔离分支执行 git 操作，并以可验证结果汇报测试状态"}
+{"ts":"2026-03-08T15:18:47Z","user_goal":"修复 PR 合并分支上的本地构建失败并重新验证","candidate_skills":["systematic-debugging","test-driven-development","verification-before-completion"],"selected_skills":["systematic-debugging","test-driven-development","verification-before-completion"],"reason":"已复现构建失败，需先调试定位，再做 bugfix，并用新鲜验证结果汇报"}
+{"ts":"2026-03-08T15:24:47Z","user_goal":"整体扫描当前代码存在的问题","candidate_skills":["requesting-code-review"],"selected_skills":["requesting-code-review"],"reason":"用户请求代码问题扫描，匹配代码评审场景"}

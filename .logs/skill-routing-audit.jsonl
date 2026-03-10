@@ -1,0 +1,2 @@
+﻿{"timestamp":"2026-03-05T07:20:05Z","user_goal":"排查为何斜杠与自动调用 myskills-router 失效","candidate_skills": ["myskills-router","using-superpowers","keiths-skill-overlay"],"selected_skills": ["myskills-router","using-superpowers"],"reason":"用户问题直接涉及技能路由与自动触发机制"}
+{"timestamp":"2026-03-05T07:25:55Z","user_goal":"一键修复 myskills-router（去 BOM + 同步到 Codex 生效路径）","candidate_skills": ["myskills-router","verification-before-completion","systematic-debugging"],"selected_skills": ["myskills-router","verification-before-completion"],"reason":"任务是路由可用性修复，且需要完成后做可验证校验"}
